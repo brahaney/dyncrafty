@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Modpack for Dyncraft",
+      "name" : "Dyncrafty",
+      "version" : "RC2",
+      "location" : "dyncrafty.json",
+      "priority" : 0
+    }
+  ]
+}
