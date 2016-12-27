@@ -5,6 +5,7 @@
 # IntelliJ project files
 .idea
 .modpacks
-**/modpacks/**/*.jar
-**/modpacks/**/*.litemod
+modpacks/**/*.jar
+modpacks/**/*.litemod
 _upload
+.stuff
