@@ -2,9 +2,9 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Modpack for Dyncraft",
+      "title" : "Dyncrafty RC3",
       "name" : "Dyncrafty",
-      "version" : "RC2",
+      "version" : "RC3",
       "location" : "dyncrafty.json",
       "priority" : 0
     }
