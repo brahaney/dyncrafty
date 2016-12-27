@@ -6,6 +6,6 @@
 .idea
 .modpacks
 modpacks/**/*.jar
-modpacks/**/*.litemod
+#modpacks/**/*.litemod
 _upload
 .stuff
