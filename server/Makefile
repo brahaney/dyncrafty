@@ -1,5 +1,5 @@
 build:
-    docker build -t dyncrafty_mcmyadmin .
+	docker build -t dyncrafty_mcmyadmin .
 
 debug:
 	docker run \
@@ -30,4 +30,4 @@ create:
 	dyncrafty_mcmyadmin
 
 start:
-    docker start mcmyadmin
+	docker start mcmyadmin
