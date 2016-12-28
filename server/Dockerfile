@@ -8,7 +8,7 @@ WORKDIR /AMP
 
 RUN apt-get update && \
     apt-get install -y lib32gcc1 screen tmux coreutils socat unzip git wget && \
-    useradd -d /AMP -m amp && \
+    useradd -u 501 -d /AMP -m amp && \
     wget http://cubecoders.com/Downloads/ampinstmgr.zip && \
     unzip ampinstmgr.zip && \
     rm -f ampinstmgr.zip
