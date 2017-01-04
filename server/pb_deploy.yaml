@@ -1,0 +1,4 @@
+- name: Deploy server to Oracle BMC
+  hosts: all
+
+  tasks:
