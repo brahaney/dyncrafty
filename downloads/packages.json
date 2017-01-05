@@ -2,9 +2,9 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Dyncrafty RC5",
+      "title" : "Dyncrafty 1.0",
       "name" : "Dyncrafty",
-      "version" : "RC5",
+      "version" : "1.0.0",
       "location" : "dyncrafty.json",
       "priority" : 0
     }
