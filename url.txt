@@ -1,0 +1,33 @@
+HTTP/1.1 302 Found
+Date: Fri, 13 Jan 2017 16:58:55 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d74cd1d5ae77351bcd1e789be3d8214db1484326735; expires=Sat, 13-Jan-18 16:58:55 GMT; path=/; domain=.curseforge.com; HttpOnly
+Cache-Control: private
+Location: /error?aspxerrorpath=/projects/railcraft/files/2299713/download
+X-AspNetMvc-Version: 1.1
+X-AspNet-Version: 4.0.30319
+X-Cobalt-Cache: Cached
+X-UA-Compatible: IE=edge,chrome=1
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=600
+Server: cloudflare-nginx
+CF-RAY: 320a6550ec7e5a56-BOS
+
+HTTP/1.1 200 OK
+Date: Fri, 13 Jan 2017 16:58:55 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d74cd1d5ae77351bcd1e789be3d8214db1484326735; expires=Sat, 13-Jan-18 16:58:55 GMT; path=/; domain=.curseforge.com; HttpOnly
+Cache-Control: private
+Expires: Fri, 13 Jan 2017 16:58:55 GMT
+Vary: Accept-Encoding
+X-AspNetMvc-Version: 1.1
+X-AspNet-Version: 4.0.30319
+X-Cobalt-Cache: Uncached
+X-UA-Compatible: IE=edge,chrome=1
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=600
+Server: cloudflare-nginx
+CF-RAY: 320a65513ca35a56-BOS
+
