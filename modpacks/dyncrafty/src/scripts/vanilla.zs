@@ -9,6 +9,9 @@ var diamondblock = <ore:blockDiamond>;
 
 // Add flesh to Leather recipe
 furnace.addRecipe(leather, <minecraft:rotten_flesh>);
+// Redstone furnace is special apparently...
+//InputRF, InputStack, OutputStack
+mods.thermalexpansion.Furnace.addRecipe(800, <minecraft:rotten_flesh>, leather);
 
 // Add saddle recipe
 recipes.addShaped(<minecraft:saddle>, [
